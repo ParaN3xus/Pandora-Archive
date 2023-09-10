@@ -1,6 +1,9 @@
 # Pandora-Archive
 Archive of pandora.
 
+# Author
+[我，无了 – 知了 (zhile.io)](https://zhile.io/2023/09/09/github-got-banned.html)
+
 # Services
 Proxy server: https://ai.fakeopen.com
 
